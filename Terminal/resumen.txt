@@ -1,0 +1,5 @@
+  110  git branch feature02
+  111  git switch feature02
+  112  history 5
+  113  history 5 > Terminal/resumen.txt
+  114  history 5 > ../Terminal/resumen.txt
